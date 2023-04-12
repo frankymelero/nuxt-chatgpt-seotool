@@ -7,13 +7,3 @@
 <Footer/>
 </div>
 </template>
-<script setup>
-useHead({
-    link: [ 
-        {
-            rel: "stylesheet",
-            href: "./assets/css/main.css"
-        }
-    ]
-})
-</script>
