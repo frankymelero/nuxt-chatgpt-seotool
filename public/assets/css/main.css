@@ -1,4 +1,5 @@
-.app{
-    background-color: blue;
-    color:white;
+body{
+    position:relative;
+    margin: 0px; 
+    padding-bottom: 6vh;
 }
